@@ -1,0 +1,22 @@
+canvas{
+  height:100% !important;
+  weight:100% !important
+}
+.entire{
+  height: 98vh;
+  width: 99vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+position: relative;
+}
+.popup{
+  position: absolute;
+  top: 10%;
+
+  right:1%;
+  background-color: red;
+  height: 400px;
+  width: 300px;
+ 
+}
